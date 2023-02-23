@@ -1,6 +1,4 @@
-package todo.app.src.test.java.todo;
-import todo.app.src.main.java.todo.Todo;
-
+package todo;
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;

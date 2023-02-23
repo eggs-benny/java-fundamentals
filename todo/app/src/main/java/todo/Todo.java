@@ -1,4 +1,4 @@
-package todo.app.src.main.java.todo;
+package todo;
 import java.util.ArrayList;
 
 public class Todo {

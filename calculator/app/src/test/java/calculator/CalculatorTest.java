@@ -1,6 +1,5 @@
-package calculator.app.src.test.java.calculator;
+package calculator;
 
-import calculator.app.src.main.java.calculator.Calculator;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
